@@ -6,7 +6,9 @@ import { Button } from "react-bootstrap";
 
 import { useContext } from "react";
 import MoviesContext  from "../context/MoviesContext";
+
 function Add(props) {
+  
 
   const [titulo, setTitulo] = useState("");
   const [rate, setRate] = useState("");
