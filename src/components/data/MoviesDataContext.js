@@ -1,0 +1,13 @@
+const MoviesDataContext = [
+    { id: 1,  rate:7, maxRate:10, title: "The good, the bad and the ugly", thumb: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg" , year:"2021", genre :"Drama, Coming to age" , sinopsis:"Alana Kane y Gary Valentine inician sus primeros pasos vacilantes en el amor en el Valle de San Fernando, California, en 1973."  },
+    { id: 2,  rate:10, maxRate:10, title: "Unforgiven", thumb: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yKyLJmRAtyXEEYKOvPhKHXIcPq9.jpg" , year:"1992", genre :"Western" , sinopsis:"William Munny is a retired, once-ruthless killer turned gentle widower and hog farmer. To help support his two motherless children, he accepts one last bounty-hunter mission to find the men who brutalized a women. Joined by his former partner and a cocky greenhorn, he takes on a corrupt sheriff."  },
+    { id: 3,  rate:7, maxRate:10, title: "The Witch",  thumb: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zap5hpFCWSvdWSuPGAQyjUv2wAC.jpg" , year:"2016", genre :"Terror" , sinopsis:"Nueva Inglaterra, 1630. Una familia compuesta por un matrimonio de colonos cristianos, padres de cinco hijos, vive cerca de un bosque al que la leyenda popular atribuye un carácter demoníaco. La convivencia estalla y la familia se desgarra al sospechar que su hija mayor practica la brujería, debido a que las cosechas no crecen y su bebé ha desaparecido."  },
+    { id: 4,  rate:8, maxRate:10, title: "Raiders of the lost ark",  thumb: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ceG9VzoRAVGwivFU403Wc3AHRys.jpg" , year:"1981", genre :"Action" , sinopsis:"Después de una infructuosa misión en Sudamérica, el Gobierno estadounidense encarga al arqueólogo Indiana Jones la búsqueda del Arca de la Alianza, una reliquia bíblica que contiene los diez mandamientos y que convierte en invencible a su portador."  },
+    { id: 5,  rate:9, maxRate:10, title: "Goodfellas",  thumb: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aKuFiU82s5ISJpGZp7YkIr3kCUd.jpg" , year:"1990", genre :"Crime, Drama" , sinopsis:"Henry, un niño de trece años de Brooklyn, vive fascinado con el mundo de los gángsters. Su sueño se hace realidad cuando entra en la familia Pauline."  },
+    { id: 6,  rate:10, maxRate:10, title: "The silence of the lambs",  thumb: "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rplLJ2hPcOQmkFhTqUte0MkEaO2.jpg" , year:"1991", genre :"Suspense, Drama" , sinopsis:"Tras una serie de crímenes donde a las víctimas les faltaba parte de la piel, una agente del FBI inicia su carrera particular para dar con el asesino. Para resolver el caso la agente encargada deberá envtrevistarse con el doctor Hannibal Lecter."  },
+
+];
+
+
+export default MoviesDataContext
+
